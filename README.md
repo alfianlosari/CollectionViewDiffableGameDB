@@ -17,6 +17,6 @@ GameDB iOS 13 app showcasing Collection View Diffable Data Source Snapshot to up
 
 ## Getting Started
 - Clone the Repository
+- Run pod install
 - Get the API Key from http://igdb.com/api
 - Put API Key in MainViewController.swift gameService constant
-
